@@ -11,7 +11,7 @@ Have used H2 database which can be embedded in java applications or run on clien
               
               
 FRONTEND--
-          Frontend is really simple just providing the interface for the user as the main focua was on Backend and storing data in the database
+          Frontend is really simple just providing the interface for the user as the main focus was on Backend and storing data in the database
           tools used - React-js,css,VScode
           
 Backend ---
